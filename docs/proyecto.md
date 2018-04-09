@@ -13,3 +13,6 @@ Esta seccion se mostrara al seleccionar un monstruo y contendra las debilidades 
 
 ### Jugar
 Esta seccion dara acceso al juego, una vez dentro te dara a elegir a tu cazador, arma, elemento y monstruo al que quieres enfrentarte.
+
+### Boceto Inicial
+![Texto](https://raw.githubusercontent.com/AlbertoDS89/videojuegos/master/dise%C3%B1o%20web.png)
