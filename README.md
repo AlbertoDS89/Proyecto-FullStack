@@ -81,4 +81,12 @@ Proximamente...
 1. Añadir contenido.
 2. Incluir base de datos
 3. ...
->>>>>>> f47610800c413a4800e220ff0a89f13530689384
+
+## Documentación
+
+[Proyecto] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/proyecto.md)
+[Infraestructura] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/infraestructura.md)
+[frontend] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/frontend.md)
+[javascript] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/javascript.md)
+[backend] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/backend.md)
+[database] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/database.md)
