@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nombre por determinar
 ## Descripción
 Es una web sobre los diferentes protagonistas de los videojuegos. La idea es que en una imagen en la que aparezcan todos podamos seleccionar el que queramos y que cargue los datos de la base de datos y nos muestre informacion sobre ellos, como por ejemplo nombre, una breve descripcion, imagenes, videojuegos en los que aparece, modelado 3D....
@@ -46,3 +47,6 @@ Lo primero que tenemos que averiguar es la forma en la que podamos seleccionar e
 
 ## ScreenShot Web
 ![ScreenShot]()
+=======
+# https://albertods89.github.io/videojuegos/. 
+>>>>>>> c4ffb4d72cc975ba4609544451619257bdc3d53f
