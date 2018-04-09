@@ -84,9 +84,9 @@ Proximamente...
 
 ## Documentación
 
-[Proyecto] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/proyecto.md)
-[Infraestructura] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/infraestructura.md)
-[frontend] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/frontend.md)
-[javascript] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/javascript.md)
-[backend] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/backend.md)
-[database] (https://github.com/AlbertoDS89/videojuegos/blob/master/docs/database.md)
+[Proyecto](https://github.com/AlbertoDS89/videojuegos/blob/master/docs/proyecto.md)
+[Infraestructura](https://github.com/AlbertoDS89/videojuegos/blob/master/docs/infraestructura.md)
+[frontend](https://github.com/AlbertoDS89/videojuegos/blob/master/docs/frontend.md)
+[javascript](https://github.com/AlbertoDS89/videojuegos/blob/master/docs/javascript.md)
+[backend](https://github.com/AlbertoDS89/videojuegos/blob/master/docs/backend.md)
+[database](https://github.com/AlbertoDS89/videojuegos/blob/master/docs/database.md)
